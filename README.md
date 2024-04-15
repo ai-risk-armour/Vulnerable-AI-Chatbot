@@ -29,7 +29,6 @@ In order to use the lab exercises, get our udemy course [AI Security BootCamp: H
 
 ## :dizzy: Stay connected
 
-<br />
 <table>
     <tr>
         <td align="center"><a href="https://www.linkedin.com/in/naveenkm94"><img alt="Naveen KM"
