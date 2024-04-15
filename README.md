@@ -27,16 +27,15 @@ In order to use the lab exercises, get our udemy course [AI Security BootCamp: H
 
 * If you find the lab exercises enjoyable, please consider giving a star ⭐️ to this repository.
 
-## :dizzy: Acknowledgements
+## :dizzy: Stay connected
 
-Huge shout out to these amazing contributors: :clap:
 <br />
 <br />
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/Naveen94"><img alt="Naveen KM"
+        <td align="center"><a href="https://www.linkedin.com/in/naveenkm94"><img alt="Naveen KM"
                     src="https://avatars.githubusercontent.com/u/7024442?v=4" width="50%" /><br />Naveen KM</a></td>
-        <td align="center"><a href="https://github.com/vimokumar"><img alt="Mohan kumar"
+        <td align="center"><a href="https://www.linkedin.com/in/vimokumar"><img alt="Mohan kumar"
             src="https://avatars.githubusercontent.com/u/1869280?v=4" width="43.5%" /><br />Mohan Kumar</a></td>
     </tr>
 </table>
